@@ -1,2 +1,2 @@
 # lit
-現在α版のためREADME.mdファイルは**ご利用いただけません**
+*** https://ruito.org/help ***をご参照ください。
